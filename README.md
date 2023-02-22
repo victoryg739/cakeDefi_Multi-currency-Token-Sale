@@ -4,8 +4,8 @@
 - npm i bignumber.js 
 
 ## To run the main program 
-node solution.js < input.txt 
+- node solution.js < input.txt 
 
 ## To run the bonus program 
-node solutionLive.js < inputLive.txt
+- node solutionLive.js < inputLive.txt
 
